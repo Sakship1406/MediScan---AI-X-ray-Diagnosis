@@ -1,0 +1,5 @@
+# Ignore virtual environments and compiled files
+.venv/
+__pycache__/
+*.pdf
+reports/
